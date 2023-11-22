@@ -3,7 +3,12 @@ h1 {color:rgb(79, 35, 199);}
 h1 text-aling:picture-in-picture
 h2 {color:blueviolet (79, 35, 199);}
 #ima1 {width: 20%;}
-body {background-color:rgb(36, 134, 219);}
+body {background-color:rgb(125, 181, 230);}
+body{width: 350px;
+  margin: 0% auto;
+background-color: rgb(216, 80, 107);
+padding: 0% 20px 20px 20px;
+border: 5px solid black;}
 h1{text:center;}
 h1{width: 30%;}
 #ima2 {width: 20%;}
