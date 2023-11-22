@@ -1,10 +1,10 @@
 h1 {color:rgb(79, 35, 199);}
 h2 {color:blueviolet (79, 35, 199);}
 #ima1 {width: 20%;}
-body {background-color:aliceblue;}
+body {background-color:rgb(36, 134, 219);}
 h1{text:center;}
 h1{width: 30%;}
 #ima2 {width: 20%;}
-#ima2 {align-self: ;}
+#ima2 {align: self 20px;}
 sourcer<"horse.ogg>{align;center}
-<p><b>{text::first-line}
+<p><b> {text::first-line}
